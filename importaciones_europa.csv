@@ -1,4 +1,4 @@
-País Socio;año;Cantidad(Kg);Importador;Nombre de Partida;Valor CIF Euro
+Country_origen;Year;Quantity;Import;Type;Valor_euro
 Australia;2018;741;Germany;Chocolates o bombones;2559
 Austria;2018;392774;Germany;Chocolates o bombones;3229448
 Belgium;2018;1981814;Germany;Chocolates o bombones;13262200
